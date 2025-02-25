@@ -1,0 +1,10 @@
+{
+    "actions": [
+        0,
+        1,
+        2
+    ],
+    "discount": 0.999,
+    "calcValIterEvery": 100000.0,
+    "explorationProb": 0.375
+}

@@ -1,0 +1,10 @@
+{
+    "actions": [
+        0,
+        1,
+        2
+    ],
+    "discount": 0.999,
+    "explorationProb": 0.16,
+    "initialQ": 0
+}

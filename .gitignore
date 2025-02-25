@@ -1,0 +1,6 @@
+out/
+.idea/
+.venv/
+rep*.pdf
+*.tex
+lab1/results/train

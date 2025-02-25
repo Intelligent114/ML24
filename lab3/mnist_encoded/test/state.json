@@ -1,0 +1,16 @@
+{
+  "_data_files": [
+    {
+      "filename": "data-00000-of-00001.arrow"
+    }
+  ],
+  "_fingerprint": "b52aceae54c44f6c",
+  "_format_columns": [
+    "image2D",
+    "image1D"
+  ],
+  "_format_kwargs": {},
+  "_format_type": "numpy",
+  "_output_all_columns": false,
+  "_split": "test"
+}
